@@ -1,0 +1,10 @@
+/* App.css or a separate CSS file for errors */
+
+.error {
+    color: red;
+    font-size: 12px;
+    margin-top: 5px;
+}
+#heading{
+    text-align: center;
+}
